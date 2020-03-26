@@ -1,0 +1,11 @@
+#listar comandos knex
+npx knex
+
+#criar migration
+npx migrate:make create_nome migration
+
+#rodar migration up
+npx knex migrate:latest
+
+#rodar migration down
+npx knex migrate:rollback
