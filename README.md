@@ -1,6 +1,6 @@
 # be-the-hero
-Semana OmniStack11
+Projeto da Semana OmniStack11
 
-Start BackEnd
+# Start BackEnd
 
 npm start
