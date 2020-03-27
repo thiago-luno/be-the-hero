@@ -1,18 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './global.css';
+import Logon from './pages/Logon';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-    
-        <p>
-         Hello World
-        </p>
-        
-      </header>
-    </div>
+    <Logon />
   );
 }
 
